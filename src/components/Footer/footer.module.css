@@ -1,0 +1,25 @@
+footer {
+    display: flex;
+    justify-content: center;
+    padding-top: 160px;
+}
+
+.footerContent {
+    color: #BDBDBD;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    color: #333333;
+}

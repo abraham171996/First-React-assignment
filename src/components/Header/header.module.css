@@ -1,0 +1,23 @@
+body {
+    padding: 0 240px;
+}
+
+.title {
+    color: #4E5150;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+@media(max-width:1250px){
+    body{
+        padding: 0 100px;
+    }
+    header{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
